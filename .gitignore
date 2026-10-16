@@ -1,0 +1,16 @@
+# dependencies
+node_modules
+
+# local env
+.env
+
+# firebase
+.firebaserc
+.firebase
+
+# build
+dist
+
+# misc
+.vscode
+.DS_Store
